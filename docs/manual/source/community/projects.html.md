@@ -84,6 +84,15 @@ Docker container for PredictionIO-based machine learning services.
 
 - Status: Runs latest stable version of PredictionIO v0.10.0 - Under active development
 
+## Fourth Docker Installation for PredictionIO
+
+URL: https://github.com/maitruong/docker-predictionio
+
+Docker container for PredictionIO-based machine learning services.
+
+- Maintainer: Mai Truong
+
+- Status: Runs latest stable version of PredictionIO v0.11.0 - Active development
 
 ## GraphX Parallel SimRank Algorithm
 
